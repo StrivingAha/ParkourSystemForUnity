@@ -2,7 +2,8 @@
 ## 跑酷系统制作学习心得:  
 ## 学习视频出处[【中文字幕】Unity第三人称跑酷系统实例制作视频教程 RRCG](https://www.bilibili.com/video/BV1Uf4y1f78J/?spm_id_from=333.999.0.0&vd_source=9e072443dd15f74d5ea3f0302db00607)  
 ## 此教程适合有一定c#和unity基础的人观看  
-## 上传了脚本文件和动画文件
+## 上传了脚本文件和动画文件  
+## 下面是全部脚本代码展示： 
 ### 照相机跟随代码  
 ```
 using System.Collections;
